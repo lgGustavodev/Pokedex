@@ -43,6 +43,3 @@ Sinta-se à vontade para contribuir com o projeto. Envie um pull request ou abra
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## Criado por
-
-Criado por [Luis Gustavo](https://www.linkedin.com/in/luis-gustavo-9b2b6b2a8/)
